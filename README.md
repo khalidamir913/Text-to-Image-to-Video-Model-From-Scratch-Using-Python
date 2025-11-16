@@ -7,6 +7,7 @@ Since I don’t have a fancy GPU, I’ve coded the small-scale architecture. Her
 | 10K | 30 | more than 3 hr |  1 hr | 1 hr 42 min |
 | 30K | 30 | more than 6 hr | 1 hr 30 min | 2 hr 30 min |
 | 100K | 30 | - | 3-4 hr | 5-6 hr |
+
 Running on a CPU will obviously take much longer to train the model. If you need to quickly test changes in the code and see results, CPU is not the best choice. I recommend using a T4 GPU from Colab or Kaggle for more efficient and faster training.
 
 Here is the blog link which guides you on how to create Stable Diffusion from scratch: Coding Stable Diffusion from Scratch
